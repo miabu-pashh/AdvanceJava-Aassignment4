@@ -1,0 +1,9 @@
+com\nagarro\springmvc\service\UserService.class
+com\nagarro\springmvc\dao\UserDaoImpl.class
+com\nagarro\springmvc\controller\RegistrationController.class
+com\nagarro\springmvc\dao\UserMapper.class
+com\nagarro\springmvc\service\UserServiceImpl.class
+com\nagarro\springmvc\controller\LoginController.class
+com\nagarro\springmvc\dao\UserDao.class
+com\nagarro\springmvc\model\Login.class
+com\nagarro\springmvc\model\User.class
